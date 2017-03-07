@@ -1,1 +1,9 @@
-
+1. install ubuntu lewat virtual box dengan menggunakan try disc, tidak menggunakan install disc
+2. membuka setting dari ubuntu dan melihat-lihat apa yang ada di setting
+3. mencoba phytonanywhere dengan membuat akun username vincentiustandy
+4. mencoba opensource.petra.ac.id tetapi setelah memasukkan password muncul access denied
+5. mencoba membuka console pada phytonanywhere dan menggunakan perintah help pada console
+6. The Cathedral and the Bazaar
+aku setuju pada sebagian dari metode Cathedral dan Bazaar.
+dimana Cathedral, cara kerjanya dengan bertemu masing-masing ahli dalam bidangnya lalu rapat bersama untuk membicarakan apa yang mereka buat.
+sedangkan Bazaar, cara penyampaian ke masyarakatnya sangat luas dan bisa diketahui dari komen-komen masyarakat, sehingga dari pendapat-pendapat masyarakat kita bisa mengetahui apa yang harus diperbaiki, ditambahi, dikurangi dari apa yang disampaikan ke masyarakat.

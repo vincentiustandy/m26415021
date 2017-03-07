@@ -1,0 +1,57 @@
+1.
+mkdir house1 house2 house3 house4 house5 house6 house7 house8 house9
+
+2.
+m26415021@debian7:~/projects$ mkdir houses
+m26415021@debian7:~/projects$ touch houses/bungalow.txt
+m26415021@debian7:~/projects$ mkdir houses/doors
+m26415021@debian7:~/projects$ touch houses/doors/bifold.txt
+m26415021@debian7:~/projects$ mkdir outdoors outdoors/vegetation
+m26415021@debian7:~/projects$ touch outdoors/vegetation/landscape.txt
+
+3.
+m26415021@debian7:~/projects$ cp -rf house1 houses
+m26415021@debian7:~/projects$ cp -rf house5 houses
+
+4.
+m26415021@debian7:~/$ cp -R /usr/share/doc/initscripts* $HOME/projects
+m26415021@debian7:~/$ ls projects
+house1  house3  house5  house7  house9  initscripts
+house2  house4  house6  house8  houses  outdoors
+m26415021@debian7:~/$ ls projects/initscripts
+changelog.Debian.gz  copyright  NEWS.Debian.gz  README.Debian
+
+5.
+m26415021@debian7:~/projects$ ls -R
+.:
+house1  house2  house5  house9  outdoors
+
+./house1:
+
+./house2:
+
+./house5:
+
+./house9:
+
+./outdoors:
+vegetation
+
+./outdoors/vegetation:
+landscape.txt
+
+6.
+m26415021@debian7:~/projects$ rm -rf house6 house7 house8
+
+7.
+m26415021@debian7:~/projects$ mv house3 houses/doors
+m26415021@debian7:~/projects$ mv house4 houses/doors
+
+8.
+m26415021@debian7:~/projects$ rm -rf houses
+
+9.
+m26415021@debian7:~/projects$ chmod 640 house2
+
+10.
+m26415021@debian7:~$ chmod -R 555 projects
