@@ -1,0 +1,4 @@
+#!/bin/bash
+for ANIMALS in moose cow goose sow ; do
+echo "I have a $ANIMALS"
+done
