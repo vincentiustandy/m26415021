@@ -1,0 +1,4 @@
+m26415021@debian7:~$ cat /etc/passwd
+m26415021@debian7:~$ cat /etc/group
+m26415021@debian7:~$ ls $HOME
+m26415021@debian7:~$ date
