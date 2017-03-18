@@ -1,0 +1,4 @@
+#!/bin/bash
+read -p "What street?" mystreet
+read -p "What Town?" mytown
+echo "The Street I grew up in was $mystreet and the town was $mytown"
