@@ -1,1 +1,6 @@
-
+m26415021@debian7:~$ ls
+m26415021@debian7:~$ mkdir f1
+m26415021@debian7:~$ cd f1
+m26415021@debian7:~$ touch file.txt
+m26415021@debian7:~$ cd ..
+m26415021@debian7:~$ pwd
