@@ -1,0 +1,2 @@
+m26415021@debian7:~$ which mount
+m26415021@debian7:~$ whereis tracepath
