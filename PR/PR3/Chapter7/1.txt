@@ -1,1 +1,7 @@
-
+m26415021@debian7:~$ mkdir bin
+m26415021@debian7:~$ cd bin
+m26415021@debian7:~$ vim myownscript
+#!/bin/bash
+echo "Today is $(DATE)"
+echo "You are in $(pwd) and your host is $(hostname)"
+m26415021@debian7:~$ chmod 755 myownscript
