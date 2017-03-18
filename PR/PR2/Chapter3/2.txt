@@ -1,0 +1,5 @@
+klik kanan pada bagian atas window putty
+lalu pilih change settings
+lalu pilih colours pada window
+pilih The font lalu klik ANSI Red pada colour to adjust untuk mengubah font menjadi merah
+pilih The colour lalu klik ANSI Yellow pada colour to adjust untuk mengubah background menjadi kuning
