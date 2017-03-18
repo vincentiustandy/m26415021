@@ -1,7 +1,6 @@
-##m26415021
-###Tugas TOS
-
-Kelompok :
-Vincentius Tandy - 26415021
-Bobby Kwariawan - 26415067
-Dennis Alviandi - 26414010
+##m26415021_
+###Tugas TOS__
+Kelompok :_
+Vincentius Tandy - 26415021_
+Bobby Kwariawan - 26415067_
+Dennis Alviandi - 26414010_
