@@ -1,0 +1,4 @@
+m26415021@debian7:~$ echo $HOSTNAME
+m26415021@debian7:~$ echo $USER
+m26415021@debian7:~$ echo $SHELL
+m26415021@debian7:~$ echo $HOME
