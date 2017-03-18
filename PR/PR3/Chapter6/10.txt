@@ -1,0 +1,1 @@
+ps -ep 'pid,user,nice,comm' | grep gedit
