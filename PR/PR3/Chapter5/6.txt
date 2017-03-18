@@ -1,0 +1,1 @@
+m26415021@debian7:~$ find /usr/share/doc -mtime +300
