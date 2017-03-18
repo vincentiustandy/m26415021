@@ -1,0 +1,11 @@
+#!/bin/bash
+read -p "whats your fav OS? mac, win, lin?" oss
+if [ $oss = mac ] ; then
+echo "Mac is Nice"
+elif [ $oss = win ] ; then
+echo "What's an windows?"
+elif [ $oss = lin ] ; then
+echo "YEA LINUX"
+else
+echo "Is that an OS?"
+fi
