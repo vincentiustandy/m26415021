@@ -1,0 +1,2 @@
+gedit &
+kill -SIGSTOP 21578
