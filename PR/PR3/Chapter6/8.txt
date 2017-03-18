@@ -1,0 +1,4 @@
+yum install xorg=xll-apps
+xeyes &
+xeyes &
+killall xeyes &
