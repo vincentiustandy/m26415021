@@ -1,0 +1,6 @@
+m26415021@debian7:~/projects$ mkdir houses
+m26415021@debian7:~/projects$ touch houses/bungalow.txt
+m26415021@debian7:~/projects$ mkdir houses/doors
+m26415021@debian7:~/projects$ touch houses/doors/bifold.txt
+m26415021@debian7:~/projects$ mkdir outdoors outdoors/vegetation
+m26415021@debian7:~/projects$ touch outdoors/vegetation/landscape.txt

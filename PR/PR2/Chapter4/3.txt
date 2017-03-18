@@ -1,0 +1,2 @@
+m26415021@debian7:~/projects$ cp -rf house1 houses
+m26415021@debian7:~/projects$ cp -rf house5 houses

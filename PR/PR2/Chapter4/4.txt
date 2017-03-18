@@ -1,0 +1,3 @@
+m26415021@debian7:~/$ cp -R /usr/share/doc/initscripts* $HOME/projects
+m26415021@debian7:~/$ ls projects
+m26415021@debian7:~/$ ls projects/initscripts

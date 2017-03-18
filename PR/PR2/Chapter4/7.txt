@@ -1,0 +1,2 @@
+m26415021@debian7:~/projects$ mv house3 houses/doors
+m26415021@debian7:~/projects$ mv house4 houses/doors
