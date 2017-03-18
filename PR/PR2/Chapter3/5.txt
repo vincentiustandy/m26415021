@@ -1,0 +1,8 @@
+m26415021@debian7:~$ base
+base64    basename
+m26415021@debian7:~$ basename /usr/share/do
+doc/      doc-base/ dovecot/
+m26415021@debian7:~$ basename /usr/share/doc/
+Display all 1018 possibilities? (y or n)
+m26415021@debian7:~$ basename /usr/share/doc/.
+.
