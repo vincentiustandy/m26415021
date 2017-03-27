@@ -1,0 +1,7 @@
+mempelajari string,lists,sorting,dics lewat video di youtube
+
+list.append(1) -> Menambahkan isi dari list di index paling akhir
+list.pop() -> return dan mengeluarkan list[index terakhir pop]
+sorted(list) -> mengurutkan isi dari list
+sorted(list, key = lenght) -> mengurutkan menurut panjang karakter
+':'.join(list) -> Menggabungkan isi dari list dengan ':'
