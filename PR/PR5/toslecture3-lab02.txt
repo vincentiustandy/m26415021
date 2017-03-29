@@ -1,4 +1,10 @@
+m26415021@debian7:~$ /sbin/ifconfig
+m26415021@debian7:~$ nano lab02.sh
+
 #!/bin/bash
 
 date +%a,' '%b' '%Y' '%X' '%z | tr '\n\r' ' ' >> logfile.txt
 /sbin/ifconfig | grep 'inet addr:' | cut -d ':' -f3 | cut -d ' ' -f1 | tr '\n\r' ' ' | sed G >> logfile.txt
+
+m26415021@debian7:~$ sh lab02.sh
+m26415021@debian7:~$ cat logfile.txt
