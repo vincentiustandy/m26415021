@@ -1,0 +1,1 @@
+sudah baca buku progit bab1-2 di https://git-scm.com/book/en/v2
