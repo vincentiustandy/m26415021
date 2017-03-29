@@ -1,7 +1,2 @@
-m26415021@debian7:~$ nano lab01.sh
-
-#!/bin/bash
-
-find /usr/lib/ -name '*.py' -exec cp {} . \;
-
+m26415021@debian7:~$ find /usr/lib/ -name '*.py' -exec cp {} . \;
 m26415021@debian7:~$ ls
